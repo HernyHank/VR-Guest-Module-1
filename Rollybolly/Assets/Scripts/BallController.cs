@@ -35,7 +35,7 @@ public class BallController : MonoBehaviour
         interactable = GetComponent<Interactable>();
 
         //get the ball's Rigidbody so we can add force to it
-        ballRb = GameObject.Find("/Ball").GetComponent<Rigidbody>();
+        ballRb = GameObject.Find("Ball").GetComponent<Rigidbody>();
     }
 
     private void Update()
