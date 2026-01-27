@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.rollybolly.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\haghmonahan\\VR-Guest-Module-1\\Rollybolly\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\hMonahan\\PiVR\\rollaball\\GitHub\\VR-Guest-Module-1\\Github Repository Module 1\\VR-Guest-Module-1\\Rollybolly\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Rollybolly [Testing]"

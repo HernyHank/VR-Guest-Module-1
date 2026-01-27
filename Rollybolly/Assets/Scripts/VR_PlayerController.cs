@@ -8,12 +8,16 @@ using TMPro;
 public class VR_PlayerController : MonoBehaviour
 {
 
-    private Rigidbody rb;
+    public Rigidbody rb;
+
+    public static int pickupCount = 0;
 
     public TextMeshProUGUI countText;
     public GameObject winTextObject;
 
     public GameObject floor;
+
+    public static int itemCount = 0;
 
     // Start is called before the first frame update
     void Start()
